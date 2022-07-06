@@ -29,3 +29,4 @@ var x = setInterval(function() {
     document.getElementById("C_Down").innerHTML = "INGEN!";
   }
 }, 1000);
+
