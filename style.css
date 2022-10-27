@@ -1,19 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@700&display=swap');
 
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Poppins', sans-serif;
-    color: #eee;
+    font-family: 'Mountains of Christmas', cursive, sans-serif;
 }
 .hero{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center; 
-    background: rgb(223, 54, 12);   
-    background: linear-gradient(152deg, rgb(238, 10, 10) 0%, rgb(0, 117, 16) 41%, rgba(117,201,183,1) 100%);
+    align-items: center;
     height: 100vh;
     line-height: .5rem;
 }
@@ -33,9 +30,10 @@ body{
     .hero h1{
         font-size: 1rem;
     }
-    
+
     .hero p{
         font-size: 2rem;
     }
-    
+
 }
+
