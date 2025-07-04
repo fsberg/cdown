@@ -11,7 +11,7 @@ $grad: ();
       $v+px $v+px at
       (random($w - $v * 2) + $v)+px
       (random($w - $v * 2) + $v)+px, 
-      rgba(255,255,255,$a) 50%,
+      rgba(50,255,50,$a) 50%,
       rgba(0,0,0,0)
   ) !global;
 }
