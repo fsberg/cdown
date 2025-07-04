@@ -4,7 +4,7 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Mountains of Christmas', cursive, sans-serif;
+    font-family: 'Barlow', cursive, sans-serif;
 }
 .hero{
     display: flex;
@@ -13,6 +13,7 @@ body{
     align-items: center;
     height: 100vh;
     line-height: .5rem;
+    background-color: #FeeF1;
 }
 
 .hero h1{
