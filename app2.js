@@ -19,7 +19,7 @@ const countdown = () => {
   + m + "M " + s + "S ";
 
   if (d < 1){
-    C_Down.style.color = "#0bd2f599";
+    C_Down.style.color = "#f57d0ee5";
   }
 
   if (diff < 0) {
